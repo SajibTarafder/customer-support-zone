@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "title": "Login issue on dashboard",
+    "description": "User unable to log in using correct credentials.",
+    "customer": "Rahim Uddin",
+    "priority": "High",
+    "status": "Pending",
+    "createdAt": "2025-01-10"
+  },
+  {
+    "id": 2,
+    "title": "Payment not processing",
+    "description": "Customer reported multiple failed payment attempts.",
+    "customer": "Karim Molla",
+    "priority": "High",
+    "status": "Pending",
+    "createdAt": "2025-01-12"
+  },
+  {
+    "id": 3,
+    "title": "Mobile app crashing",
+    "description": "App closes automatically when opening profile section.",
+    "customer": "Sadia Islam",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-01-09"
+  },
+  {
+    "id": 4,
+    "title": "Email verification failed",
+    "description": "Verification email not being sent to user.",
+    "customer": "Imran Hossain",
+    "priority": "Low",
+    "status": "Pending",
+    "createdAt": "2025-01-05"
+  },
+  {
+    "id": 5,
+    "title": "UI layout broken on tablet",
+    "description": "Dashboard cards overlap on tablet view.",
+    "customer": "Nusrat Jahan",
+    "priority": "Medium",
+    "status": "Pending",
+    "createdAt": "2025-01-14"
+  },
+  {
+    "id": 6,
+    "title": "Order not showing in history",
+    "description": "Customer order missing from order history.",
+    "customer": "Bashir Mia",
+    "priority": "High",
+    "status": "Pending",
+    "createdAt": "2025-01-11"
+  },
+  {
+    "id": 7,
+    "title": "App notifications not working",
+    "description": "Push notifications not being delivered.",
+    "customer": "Rafi Ahmed",
+    "priority": "Low",
+    "status": "In Progress",
+    "createdAt": "2025-01-08"
+  },
+  {
+    "id": 8,
+    "title": "Slow website loading",
+    "description": "Website taking more than 10 seconds to load.",
+    "customer": "Jannat Ara",
+    "priority": "Medium",
+    "status": "Pending",
+    "createdAt": "2025-01-07"
+  },
+  {
+    "id": 9,
+    "title": "Forgot password not working",
+    "description": "Reset password link not sent to email.",
+    "customer": "Habib Karim",
+    "priority": "High",
+    "status": "Resolved",
+    "createdAt": "2025-01-06"
+  },
+  {
+    "id": 10,
+    "title": "Coupon not applied",
+    "description": "Discount coupon showing invalid for valid users.",
+    "customer": "Shakil Khan",
+    "priority": "Low",
+    "status": "Pending",
+    "createdAt": "2025-01-03"
+  },
+  {
+    "id": 11,
+    "title": "Profile picture upload failing",
+    "description": "400 error when uploading profile images.",
+    "customer": "Tanvir Hasan",
+    "priority": "Medium",
+    "status": "Pending",
+    "createdAt": "2025-01-13"
+  },
+  {
+    "id": 12,
+    "title": "Order cancellation issue",
+    "description": "User unable to cancel order after confirming.",
+    "customer": "Arif Chowdhury",
+    "priority": "High",
+    "status": "Pending",
+    "createdAt": "2025-01-02"
+  },
+  {
+    "id": 13,
+    "title": "App stuck on loading screen",
+    "description": "App freezes during splash loading.",
+    "customer": "Mehnaz Akter",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-01-01"
+  },
+  {
+    "id": 14,
+    "title": "Dark mode not applying",
+    "description": "Theme switches but UI stays white.",
+    "customer": "Tahrim Ahsan",
+    "priority": "Low",
+    "status": "Pending",
+    "createdAt": "2025-01-04"
+  },
+  {
+    "id": 15,
+    "title": "Two-factor authentication error",
+    "description": "OTP not accepted for some users.",
+    "customer": "Fahim Rahman",
+    "priority": "High",
+    "status": "Pending",
+    "createdAt": "2025-01-10"
+  }
+]
