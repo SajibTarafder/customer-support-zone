@@ -2,10 +2,10 @@ import React from 'react';
 
 const Footer = () => {
   return (
-   <footer className="footer mt-7 lg:flex lg:justify-between sm:footer-horizontal bg-neutral text-neutral-content px-40 py-12">
+   <footer className="footer mt-7 lg:flex lg:justify-between sm:footer-horizontal bg-neutral text-neutral-content px-36 py-12">
   
     <nav>
-    <h4 className="footer-title text-xl">CS — Ticket System</h4>
+    <h4 className="text-xl font-semibold text-white">CS — Ticket System</h4>
     <a className="link link-hover text-xs text-[#4b4a4a]">
       Lorem Ipsum is simply dummy text of the 
       <br />printing and typesetting industry. 
@@ -18,30 +18,30 @@ const Footer = () => {
   </nav>
    <nav>
     <h6 className="footer-title">Company</h6>
-    <a className="link link-hover">Branding</a>
-    <a className="link link-hover">Design</a>
-    <a className="link link-hover">Marketing</a>
-    <a className="link link-hover">Advertisement</a>
+    <a className="link link-hover text-[#4b4a4a]">Branding</a>
+    <a className="link link-hover text-[#4b4a4a]">Design</a>
+    <a className="link link-hover text-[#4b4a4a]">Marketing</a>
+    <a className="link link-hover text-[#4b4a4a]">Advertisement</a>
   </nav>
   <nav>
     <h6 className="footer-title">Services</h6>
-    <a className="link link-hover">Branding</a>
-    <a className="link link-hover">Design</a>
-    <a className="link link-hover">Marketing</a>
-    <a className="link link-hover">Advertisement</a>
+    <a className="link link-hover text-[#4b4a4a]">Branding</a>
+    <a className="link link-hover text-[#4b4a4a]">Design</a>
+    <a className="link link-hover text-[#4b4a4a]">Marketing</a>
+    <a className="link link-hover text-[#4b4a4a]">Advertisement</a>
   </nav>
   <nav>
     <h6 className="footer-title">Information</h6>
-    <a className="link link-hover">About us</a>
-    <a className="link link-hover">Contact</a>
-    <a className="link link-hover">Jobs</a>
-    <a className="link link-hover">Press kit</a>
+    <a className="link link-hover text-[#4b4a4a]">About us</a>
+    <a className="link link-hover text-[#4b4a4a]">Contact</a>
+    <a className="link link-hover text-[#4b4a4a]">Jobs</a>
+    <a className="link link-hover text-[#4b4a4a]">Press kit</a>
   </nav>
   <nav>
     <h6 className="footer-title">Social Links</h6>
-    <a className="link link-hover">@CS — Ticket System</a>
-    <a className="link link-hover">Privacy policy</a>
-    <a className="link link-hover">Cookie policy</a>
+    <a className="link link-hover text-[#4b4a4a]">@CS — Ticket System</a>
+    <a className="link link-hover text-[#4b4a4a]">Privacy policy</a>
+    <a className="link link-hover text-[#4b4a4a]">Cookie policy</a>
   </nav>
   
 </footer>

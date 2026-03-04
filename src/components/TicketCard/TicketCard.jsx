@@ -5,10 +5,10 @@ const TicketCard = ({ tickets, handleAddToProgress }) => {
 
 
   return (
-    <div className=' max-w-7xl mx-auto mt-6 px-4'>
+    <div>
 
 
-      <div className='basis-2/3 grid lg:grid-cols-2 grid-cols-1 md:grid-cols-2 gap-4'>
+      <div className='grid lg:grid-cols-2 grid-cols-1 md:grid-cols-2 gap-4'>
         {
           tickets.map(customer =>
             <div key={customer.id} onClick={() => handleAddToProgress(customer)} className="bg-base-100 shadow-xl ">

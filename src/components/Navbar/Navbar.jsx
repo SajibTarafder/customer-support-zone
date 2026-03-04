@@ -15,7 +15,7 @@ const Navbar = () => {
         <div className="flex justify-between items-center h-16">
          
           <div className="flex">
-            <a className="btn btn-ghost text-xl">CS — Ticket System</a>
+            <a className="font-semibold text-xl">CS — Ticket System</a>
           </div>
 
           {/* Desktop Menu */}
@@ -26,7 +26,7 @@ const Navbar = () => {
             <a className="btn btn-ghost">Blog</a>
             <a className="btn btn-ghost">Download</a>
             <a className="btn btn-ghost">Contact</a>
-            <button className="btn btn-soft btn-primary">
+            <button className="btn   bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-white">
                  + New Ticke</button>
                 
           </div>
