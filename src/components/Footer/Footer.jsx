@@ -7,12 +7,11 @@ const Footer = () => {
     <nav>
     <h4 className="text-xl font-semibold text-white">CS — Ticket System</h4>
     <a className="link link-hover text-xs text-[#4b4a4a]">
-      Lorem Ipsum is simply dummy text of the 
-      <br />printing and typesetting industry. 
-     <br /> Lorem Ipsum has been the industry's standard dummy text 
-      <br />ever since the 1500s, when an unknown printer 
-      <br />took a galley of type and scrambled 
-     <br /> it to make a type specimen book.
+      Customer is unable to log in to their account.
+      <br />They've tried resetting their password multiple times but still...
+      <br /> ever since the 1500s, when an unknown printer
+       <br /> took a galley of type and scrambled 
+        it to make a type specimen book.
       
     </a>
   </nav>
@@ -38,7 +37,7 @@ const Footer = () => {
     <a className="link link-hover text-[#4b4a4a]">Press kit</a>
   </nav>
   <nav>
-    <h6 className="footer-title">Social Links</h6>
+    <h6 className="footer-title ">Social Links</h6>
     <a className="link link-hover text-[#4b4a4a]">@CS — Ticket System</a>
     <a className="link link-hover text-[#4b4a4a]">Privacy policy</a>
     <a className="link link-hover text-[#4b4a4a]">Cookie policy</a>
